@@ -1,5 +1,3 @@
-package hackerrank;
-
 /* Read input from stdin is by using the Scanner class and specifying the Input Stream as System.in
  * Alternatively, you can use the BufferedReader class.
  */
