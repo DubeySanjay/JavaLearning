@@ -38,7 +38,7 @@ import java.io.*;
 import java.util.*;
 import java.math.BigInteger; // Import BigInteger class
 
-public class Solution {
+public class CheckDataType{
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
